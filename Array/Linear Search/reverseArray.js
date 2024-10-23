@@ -19,4 +19,4 @@ function reverseArray(arr) {
 }
 
 const arr = [1, 4, 0, 5, -2, 15];
-console.log(reverseArray(arr));
+console.log(reverseArray(arr)); // [ 15, -2, 5, 0, 4, 1 ]
