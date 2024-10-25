@@ -28,3 +28,23 @@ key > mid
 key < mid
 
 ```
+
+```sh
+**IMPORTANT**
+
+if array start index and end index is out of bound
+then it is difficult to find mid value
+
+let use this to find mid value
+
+
+---------------------------------
+mid = start + (end - start)/2;
+---------------------------------
+
+```
+
+```sh
+Linear search time complexity --> O(n)
+Binary search time complexity --> O(log n)
+```
